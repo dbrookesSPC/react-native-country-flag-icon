@@ -1,7 +1,7 @@
 {
-  "name": "react-native-country-flag",
-  "version": "1.1.7",
-  "description": "This is a React-Native package to display every 254 Country flags with the ISO 3166-1 alpha-2 Standard!",
+  "name": "react-native-country-flag-icon",
+  "version": "1.2.0",
+  "description": "This is a React-Native package to display every 254 Country flags with the ISO 3166-1 alpha-2 Standard! But teeny tiny icon sized images!",
   "main": "./dist/cjs/index.js",
   "module": "./dist/index.js",
   "scripts": {
